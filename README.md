@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Esquerré</h1>
 <h3 align="center">Back-End focused developer | Computer Engineering student; UdeLaR - FING | Technical assistant in IT with emphasis on development and support; UTU | Ceibal Jóvenes a Programar Student | Data Science and AI enthusiast</h3>
 
-- 🌱 I've been delving into Python and getting my feet wet with the fundamentals of Data Science. **Python and getting my feet wet with the fundamentals of Data Science.**
+- 🌱 I've been delving into **Python and getting my feet wet with the fundamentals of Data Science.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/santi-esquerre/Personal-Porfolio](https://github.com/santi-esquerre/Personal-Porfolio)
 
